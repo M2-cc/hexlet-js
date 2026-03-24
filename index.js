@@ -1,1 +1,2 @@
-console.log('hello, Hexlet!')
+const _ = require("lodash");
+console.log("hello, Hexlet!");
